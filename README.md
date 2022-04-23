@@ -1,2 +1,2 @@
-# A1-SB-REST-CONUMER-SUM
-simple springboot rest api (consumer) sum
+# A1-SB-REST-CONSUMER-SUM
+simple springboot rest api (consumer) consume producer sum api
